@@ -27,6 +27,8 @@ Apaixonado por tecnologia, adaptável, fácil de lidar e comunicativo.
 
 ## Projetos
 
+https://github.com/SrMikka/netflix-copy
+
 ### Tela de Login de Site
 - **Objetivo:** Recriar a interface de login de um site conhecido para treinar design e front-end.  
 - **Tecnologias:** HTML, SCSS, TypeScript  
